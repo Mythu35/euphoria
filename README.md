@@ -195,15 +195,15 @@ It has 2 keys, *logo* and *sections*.
 
 ```
 {
-    "name": "Your Name",
+    "name": "I'M MYTHILY",
     "roles": ["a Developer", "a Freelancer"]
 }
 ```
 
 | key | Description |
 | ----------- | ----------- |
-| name | your name | 
-| roles | string array separated by `,`. mention your roles here | 
+| name | I'M MYTHILY | 
+| roles | string array separated by `,`. a Developer, a Freelancer | 
 
 #### Social Links
 - open `public/profile/social.json`
@@ -241,7 +241,7 @@ It has 2 keys, *logo* and *sections*.
 
 ```
 {
-    "about": " This is where you can describe about **yourself**.",
+    "about": " I'M A DEVELOPER**.",
     "imageSource": "images/about/profile.png"
     
 }
@@ -249,8 +249,8 @@ It has 2 keys, *logo* and *sections*.
 
 | key | Description |
 | ----------- | ----------- |
-| about | write about yourself, your works and goals here. `markdown` supported | 
-| imageSource | path to your profile image. (recommended size 400 x 450) |
+| about | I'M A DEVELOPER | 
+| imageSource | images/about/profile.png. (recommended size 400 x 450) |
 
 ### (5) Skills Section
 
